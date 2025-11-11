@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱🖥️ I'm currently learning how to design and code a website entirely in VS Code to understand the full process of visual communication on the web. This has become a learning edge which is pushing me to connect visual design with technical structure, accessibility, and responsiveness.
+🌱🖥️ I'm currently learning how to design and code a website entirely in VS Code to understand the full process of visual communication on the web. This project is pushing me to connect visual design with technical structure, accessibility, and responsiveness. 
+- My first website is a prototype for a brand that I have done the graphic design for. This is a real business owned by an independent artist whose entire online presence currently consists of social media.
+    Challenges unique to this project:
+  - Applying brand assets authentically, ensuring that all elements of the page work together to deliver the same brand feel that the artist has already established
+  - Creating an ever-present, non-intrusive button for a slide-up contact form has challenged me to understand the application of multiple effects (button that moves with the        page, button that opens a form, form that closes the same way it opened) on a single element. This has proven to be crucial to delivering a website that aligns with              established visual communication.
+  - Developing the code for a shopping cart with the desired specifications of the artist
+  - A/B testing and ongoing client communication
