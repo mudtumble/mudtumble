@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**mudtumble/mudtumble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mudtumble/portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱🖥️ I'm currently learning how to design and code a website entirely in VS Code to understand the full process of visual communication on the web. This has become a learning edge which is pushing me to connect visual design with technical structure, accessibility, and responsiveness.
